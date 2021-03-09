@@ -7,20 +7,21 @@ class Automaton():
     def validate(self):
         """Return a Boolean
 
-        Validates the config file.
+        Returns true if the config file is valid,
+        and raises a ValidationException if the config is invalid.
         """
         return "I can't tell if the config file is valid... yet!"
 
     def accepts_input(self, input_str):
         """Return a Boolean
 
-        The method returns True if the input is accepted,
+        Returns True if the input is accepted,
         and it returns False if the input is rejected.
         """
         pass
 
     def read_input(self, input_str):
-        """Return an Automation
+        """Return a string - the final state
         
         If the input is rejected, the method raises a
         RejectionException.
