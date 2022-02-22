@@ -21,7 +21,7 @@ class Automaton():
         pass
 
     def read_input(self, input_str):
-        """Return a string - the final state
+        """Return the automaton's final configuration
         
         If the input is rejected, the method raises a
         RejectionException.
