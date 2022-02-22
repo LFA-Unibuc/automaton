@@ -37,7 +37,6 @@ section has valid states (first and third word) and valid words (word two). Note
 that states can be succeeded by ”F”, ”S”, both or nothing. ”S” symbol can
 succeed only one state.
 
-Exercise 2. Familiarize yourself with Python Notebooks if python is the lan-
-guage of choice.
+Exercise 2. Familiarize yourself with Python Notebooks if python is your language of choice.
 
 Exercise 3. Familiarize yourself with Latex (overleaf.com).
